@@ -9,7 +9,7 @@ I did an internship at Beijing iQIYI Science and Technology Co., Ltd. in summer,
 - 🔭 Interested in Python GUI, VANET security and UNIX shell programming
 - 🌱 Currently learning integrated circuits design
 - 📫 [Email](mailto:thekaielhsu@gmail.com) | [Twitter](https://twitter.com/Kaiel_H)
-- Fun fact: Had studied Business Management for one year, and got 200/200 in TOPIK I then
+- Fun fact: Had studied Business Management for one year, and got 200/200 in TOPIK Ⅰ then
 
 <!---GitHub Stats--->
 
