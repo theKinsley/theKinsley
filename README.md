@@ -13,4 +13,4 @@ I did an internship at Beijing iQIYI Science and Technology Co., Ltd. in summer,
 
 <!---GitHub Stats--->
 
-[![Kaiel Hsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=theKaiel)](https://github.com/anuraghazra/github-readme-stats)
+![theKaiel github stats](https://github-readme-stats.vercel.app/api?username=theKaiel&show_icons=true)
