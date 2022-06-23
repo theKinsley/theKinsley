@@ -1,8 +1,8 @@
 <!---About me--->
 
 Here's Kaiel (or Kinsley, whatever😶‍🌫️)
-Currently studying Multimedia Information Processing at Peking Univ. / Graduated from Dept. CSE at National Sun Yat-sen Univ.
 
+Currently studying Multimedia Information Processing at Peking Univ. / Graduated from Dept. CSE at National Sun Yat-sen Univ.<br>
 Little to share here, but appreciate everything I got🥲
 
 - *Being alive is all you need*
