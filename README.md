@@ -1,15 +1,12 @@
 <!---About me--->
 
-Hi 👋, this is Kaiel!
+Here's Kaiel (or Kinsley, whatever😶‍🌫️)
+Currently studying Multimedia Information Processing at Peking Univ. / Graduated from Dept. CSE at National Sun Yat-sen Univ.
 
-I'm studying Computer Science and Engineering at NSYSU with experience as an exchange student in THU and SJTU.
-I did an internship at Beijing iQIYI Science and Technology Co., Ltd. in summer, 2019.
+Little to share here, but appreciate everything I got🥲
 
-- *Be boundless & brave*
-- 🔭 Interested in Python GUI, VANET security and UNIX shell programming
-- 🌱 Currently learning integrated circuits design and Android apps development
-- 📫 [Email](mailto:thekaiel451@gmail.com) | [Twitter](https://twitter.com/theKaiel451)
-- Fun fact: Had studied Business Management for one year, and got 200/200 in TOPIK Ⅰ then
+- *Being alive is all you need*
+- 🔭 Interested in CV, NLP, and cross-modality
 - *451 == "sweet"*
 
 <!---GitHub Stats--->
