@@ -16,4 +16,4 @@ P & A
 
 <!---GitHub Stats--->
 
-![theKaiel github stats](https://github-readme-stats.vercel.app/api?username=theKaiel&show_icons=true)
+![theKaiel github stats](https://github-readme-stats.vercel.app/api?username=theKinsley&show_icons=true)
