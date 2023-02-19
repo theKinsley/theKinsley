@@ -1,6 +1,6 @@
 <!---About me--->
 
-Here's Kaiel (or Kinsley, whatever😶‍🌫️)
+Here's Kinsley (or Kaiel, whatever😶‍🌫️)
 
 Currently studying Multimedia Information Processing at Peking Univ. / Graduated from Dept. CSE at National Sun Yat-sen Univ.
 
