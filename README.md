@@ -11,7 +11,7 @@ Little to share here, but appreciate everything I got🥲
 - *451 == "sweet"*
 
 P & A
-- 1st place in **TRECVID 2022** *Disaster Scene Description & Indexing Challenge*
+- 1st place in *Disaster Scene Description & Indexing Challenge* of **TRECVID 2022**
 - "A Deep Learning-based Integrated Algorithm for Misbehavior Detection System in VANETs" *in Proceedings of* **ACM ICEA 2021**
 
 <!---GitHub Stats--->
