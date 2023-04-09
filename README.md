@@ -7,7 +7,7 @@ Currently studying Multimedia Information Processing at Peking Univ. / Graduated
 Little to share here, but appreciate everything I got🥲
 
 - *Happiness is a prerequisite for life; anyone who damages mine dies.*
-- 🔭 Interested in CV and cross-modality
+- Interested in CV and cross-modality
 - *451 == "sweet"*
 
 Publication & Award
