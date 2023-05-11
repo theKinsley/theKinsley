@@ -2,7 +2,7 @@
 
 Here's Kinsley (or Kaiel, whatever😶‍🌫️)
 
-Currently studying Multimedia Information Processing at Peking Univ. / Graduated from Dept. CSE at National Sun Yat-sen Univ.
+Currently studying Computer Science Application at Peking Univ. / Graduated from Dept. CSE at National Sun Yat-sen Univ.
 
 Little to share here, but appreciate everything I got🥲
 
