@@ -16,4 +16,4 @@ Publication & Award
 - "A Deep Learning-based Integrated Algorithm for Misbehavior Detection System in VANETs" *in Proceedings of* **ACM ICEA 2021** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3491396.3506509)
 <!---GitHub Stats--->
 
-![theKaiel github stats](https://github-readme-stats.vercel.app/api?username=theKinsley&show_icons=true)
+<!---![theKaiel github stats](https://github-readme-stats.vercel.app/api?username=theKinsley&show_icons=true)--->
