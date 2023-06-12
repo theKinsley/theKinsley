@@ -1,6 +1,6 @@
 <!---About me--->
 
-Here's Kinsley (or Kaiel, whatever😶‍🌫️)
+Here's Kinsley!🥰🌸
 
 Currently studying Computer Application Technology at Peking Univ. / Graduated from Dept. CSE at National Sun Yat-sen Univ.
 
