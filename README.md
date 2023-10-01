@@ -6,7 +6,7 @@ Currently studying Computer Application Technology at Peking Univ. / Graduated f
 
 Little to share here, but appreciate everything I got🥲
 
-- *Happiness is a prerequisite for life; anyone who damages mine dies.*
+- *Happiness is a prerequisite for life; anyone who damages mine, please die.*
 - Interested in CV and Vision-Language
 - *451 == "sweet"*
 
