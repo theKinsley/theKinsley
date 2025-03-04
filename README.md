@@ -6,9 +6,10 @@ Currently studying Computer Application Technology at Peking Univ. / Graduated f
 
 Little to share here, but appreciate everything I got🥲
 
-- *Happiness is a prerequisite for life; anyone who damages mine, please leave.*
-- Interested in CV and Vision-Language
-- *451 == "sweet"*
+- *Happiness is a prerequisite for life, so just leave those who damages it.*
+- Interested in computer vision and vision-language
+- Engaged in visual-textual presentation’s creativity understanding and generation
+- *451 == "sweet" in Chinese*
 
 Publication & Award
 - "PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation" *in Proceedings of* **CVPR 2025** [[Project]](https://thekinsley.github.io/PosterO.github.io/)
