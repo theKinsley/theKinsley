@@ -12,7 +12,7 @@ Little to share here, but appreciate everything I got🥲
 - *451 == "sweet" in Chinese*
 
 Publication & Award
-- "PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation" *in Proceedings of* **CVPR 2025** [[Project]](https://thekinsley.github.io/PosterO.github.io/)
+- "PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation" *in Proceedings of* **CVPR 2025** [[Project]](https://thekinsley.github.io/PosterO/)
 - "PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout" *in Proceedings of* **CVPR 2023** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.html)[[Source code]](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)
 - "DensityLayout: Density-conditioned Layout GAN for Visual-textual Presentation Designs" *in Proceedings of* **ICIG 2023** [[Paper]](http://dx.doi.org/10.1007/978-3-031-46308-2_16)
 - 1st place in *Disaster Scene Description & Indexing Challenge* of **TRECVID 2022** [[Paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/pku_wict.pdf)
