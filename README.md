@@ -1,6 +1,6 @@
 <!---About me--->
 
-Here's Kinsley!🥰🌸 📧kslh99@stu.pku.edu.cn
+Here's Kinsley!🥰🌸 📧kslh99@outlook.com
 
 Currently studying Computer Application Technology at Peking Univ. / Graduated from Dept. CSE at National Sun Yat-sen Univ.
 
