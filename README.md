@@ -2,7 +2,7 @@
 
 Here's Kinsley!🥰🌸 📧kslh99@alumni.pku.edu.cn
 
-Currently studying Computer Application Technology at Peking Univ. / Graduated from Dept. CSE at National Sun Yat-sen Univ.
+Master's degree in Computer Application Technology from Peking Univ. / Bachelor's degree in Computer Science and Engineering from National Sun Yat-sen Univ.
 
 Little to share here, but appreciate everything I got🥲
 
