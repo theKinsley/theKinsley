@@ -12,7 +12,7 @@ Little to share here, but appreciate everything I got🥲
 - *451 == "sweet" in Chinese*
 
 Publication & Award
-- "Scan-and-Print: Patch-level Data Summarization and Augmentation for Content-aware Layout Generation in Poster Design" @ **IJCAI 2025 (AI, Arts and Creativity)** [[Project]](https://thekinsley.github.io/Scan-and-Print/)
+- "Scan-and-Print: Patch-level Data Summarization and Augmentation for Content-aware Layout Generation in Poster Design" @ **IJCAI 2025 (AI, Arts and Creativity)** [[Project]](https://thekinsley.github.io/Scan-and-Print/)[[Code]](https://github.com/theKinsley/Scan-and-Print-IJCAI2025)
 - "PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation" @ **CVPR 2025** [[Project]](https://thekinsley.github.io/PosterO/)[[Code]](https://github.com/theKinsley/PosterO-CVPR2025)
 - "PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout" @ **CVPR 2023** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.html)[[Code]](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)
 - "DensityLayout: Density-conditioned Layout GAN for Visual-textual Presentation Designs" @ **ICIG 2023** [[Paper]](http://dx.doi.org/10.1007/978-3-031-46308-2_16)
