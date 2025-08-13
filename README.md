@@ -8,7 +8,7 @@ Little to share here, but appreciate everything I got🥲
 
 - *Happiness is a prerequisite for life, so just leave those who damages it.*
 - Interested in computer vision and vision-language
-- Engaged in visual-textual presentation’s creativity understanding and generation
+- Engaged in visual-textual presentation's creativity understanding and generation
 - *451 == "sweet" in Chinese*
 
 Publication & Award
